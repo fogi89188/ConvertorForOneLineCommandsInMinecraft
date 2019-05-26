@@ -1,0 +1,7 @@
+C:\Users\Viki\source\repos\MinecraftOneCommandConvertor\MinecraftOneCommandConvertor\obj\Debug\MinecraftOneCommandConvertor.csprojAssemblyReference.cache
+C:\Users\Viki\source\repos\MinecraftOneCommandConvertor\MinecraftOneCommandConvertor\obj\Debug\MinecraftOneCommandConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\MinecraftOneCommandConvertor\MinecraftOneCommandConvertor\bin\Debug\MinecraftOneCommandConvertor.exe.config
+C:\Users\Viki\source\repos\MinecraftOneCommandConvertor\MinecraftOneCommandConvertor\bin\Debug\MinecraftOneCommandConvertor.exe
+C:\Users\Viki\source\repos\MinecraftOneCommandConvertor\MinecraftOneCommandConvertor\bin\Debug\MinecraftOneCommandConvertor.pdb
+C:\Users\Viki\source\repos\MinecraftOneCommandConvertor\MinecraftOneCommandConvertor\obj\Debug\MinecraftOneCommandConvertor.exe
+C:\Users\Viki\source\repos\MinecraftOneCommandConvertor\MinecraftOneCommandConvertor\obj\Debug\MinecraftOneCommandConvertor.pdb
